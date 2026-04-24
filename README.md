@@ -11,8 +11,6 @@ A beautiful, offline-capable Bible application built with Flutter. This app feat
 - **🔍 Simple Navigation:** Easy-to-use interface to quickly jump between books, chapters, and verses.
 
 ## 📱 Screenshots
-
-*(Note: Add screenshots of your app here once you upload them to your repository!)*
 | Home Screen | Reading Screen (Light) | Reading Screen (Dark) |
 | :---: | :---: | :---: |
 | <img src="URL_TO_IMAGE" width="200"/> | <img src="URL_TO_IMAGE" width="200"/> | <img src="URL_TO_IMAGE" width="200"/> |
